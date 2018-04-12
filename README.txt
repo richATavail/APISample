@@ -1,8 +1,7 @@
 OVERVIEW
 --------------------------------------------------------------------------------
-This application is the answer to a test question for a potential software
-engineering position with Backblaze, Inc. The instructions for this assignment
-were as follows:
+This application is in response to a question utilizing some of the API of Backblaze's 
+B2 product. The instructions for this were as follows:
 
 	INSTRUCTIONS
 	-------------
