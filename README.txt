@@ -2,7 +2,7 @@ OVERVIEW
 --------------------------------------------------------------------------------
 This application is the answer to a test question for a potential software
 engineering position with Backblaze, Inc. The instructions for this assignment
-are as follows:
+were as follows:
 
 	INSTRUCTIONS
 	-------------
@@ -27,7 +27,7 @@ it.
 
 MOTIVATION
 --------------------------------------------------------------------------------
-As this is an exercise to determine my capabilities as a software engineer, I
+As this was an exercise to determine my capabilities as a software engineer, I
 decided to build an application just using publicly available HTTP POST and
 GET requests as described in https://www.backblaze.com/b2/docs/. I believe this
 gave me the best opportunity to demonstrate a wide range of skills. I felt the
